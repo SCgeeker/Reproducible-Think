@@ -4,7 +4,7 @@ author: "Sau-Chin Chen"
 date: "Wednesday, April 29, 2015"
 output: html_document
 ---
-多種繪圖及存檔
+多重繪圖及存檔
 ```{r}
 for (i in 1:3)
     { 

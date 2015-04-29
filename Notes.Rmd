@@ -22,7 +22,7 @@ Git安裝完成後的本機端初始化：
 Tools -> Global Options -> Git/SVN -> **Git executable**  
 ![Roption1](http://kukekko.web.fc2.com/contents/techillust/RL/RStudio/Function/Tools_GlobalOptions/Images/GitSVN.png)
 
-[示範頁面](/test.html)
+[示範頁面](test.html)
 </br>
 ##為何需要？
 1. 科學家也該學Git  </br>

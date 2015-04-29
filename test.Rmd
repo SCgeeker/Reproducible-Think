@@ -4,8 +4,12 @@ author: "Sau-Chin Chen"
 date: "Wednesday, April 29, 2015"
 output: html_document
 ---
-多次繪圖
+多種繪圖及存檔
 ```{r}
-for i in 1:3
-{plot(rnorm(i*10))}
+for (i in 1:3)
+    { 
+     png(filename = paste0("plot",i,".png") )
+     plot(rnorm(i*10), main = i)
+     dev.off()
+    }
 ```

@@ -3,6 +3,7 @@ title: "實現可重製研究的理由與方針"
 author: "陳紹慶"
 output: html_document
 ---
+[Source](https://github.com/SCgeeker/Reproducible-Think)
 ##實作要件
 [Git](http://git-scm.com/) + [Github](https://github.com/)  
 Git安裝完成後的本機端初始化：  

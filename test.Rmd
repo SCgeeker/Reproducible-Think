@@ -1,0 +1,11 @@
+---
+title: "版本控制測試"
+author: "Sau-Chin Chen"
+date: "Wednesday, April 29, 2015"
+output: html_document
+---
+多次繪圖
+```{r}
+for i in 1:3
+{plot(rnorm(i*10))}
+```

@@ -1,0 +1,39 @@
+---
+title: "實現可重製研究的理由與方針"
+author: "陳紹慶"
+output: html_document
+---
+##實作要件
+[Git](http://git-scm.com/) + [Github](https://github.com/)  
+Git安裝完成後的本機端初始化：  
+`git config --global user.name "your_github_name"`  
+`git config --global user.email "yours@email.com"`  
+
+[30天精通Git版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
+
+[Rstudio](http://www.rstudio.com/)  
+
+[Rstudio官方指導說明](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN?version=0.98.1103&mode=desktop)
+
+一般設定：  
+Tools -> Global Options -> Git/SVN -> **Git executable**  
+![Roption1](http://kukekko.web.fc2.com/contents/techillust/RL/RStudio/Function/Tools_GlobalOptions/Images/GitSVN.png)
+
+[示範頁面](/test.html)
+
+##為何需要？
+1. 科學家也該學Git  </br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uNSVvpSotTw?list=PLSxoRcsvTAqBWzNFvRUKAZXGyfJRIVGSz" frameborder="0" allowfullscreen></iframe></br>
+2. 版本控制在實驗科學的功用越來越重要。
+  - 資料規模持續增加(1,000 -> 1,000,000 -> 1,000,000,000)
+  - 分析結果圖像化(行為紀錄 -> 神經生物方法)
+  - [可重製性研究](http://scgeeker.github.io/ActObj2014/index-CCU.html#40)(內容透明度,研究品質)
+
+##已知的案例與實用工具
+[Jeromy Anglim's Blog: Psychology and Statistics](http://jeromyanglim.blogspot.tw/)  
+
+[OpenfMRI](https://openfmri.org/)  
+[Source codes for OpenfMRI](https://github.com/poldrack/openfmri)  
+
+[knitcitations](https://github.com/cboettig/knitcitations)(在R markdown文件中加入參考文獻)  
+

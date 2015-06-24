@@ -38,19 +38,24 @@ output: html_document
     + 上圖標記的按鈕*Download ZIP*，點撃下載整份Repo的ZIP檔案。解壓縮到個人習慣存放的資料夾，點擊`CH_R_Meta.Rproj`，就能開啟Rstudio檢視內容。
   
 * <a name='1C'>建議</a>
-    + 
+    + 一個資料夾存放一個專案，如果要合併兩個以上的專案內容，建議建立新的專案。  
+    + 本機資料夾的存放位置儘可能不要在作業系統的分割區，一來容易雜亂，二來硬體出問題不易救回。  
+    + 要分享給他人的專案內容如果有更新，不容易做到同步，特別是他人也參與維護專案內容。  
   
 ###<a name='2'>這個方法適合已經習慣使用版本控制系統的使用者</a>
 * <a name='2A'>前置準備</a>  
-    + 參考[Git版本控制](Git.html)一節，確定使用Rstudio的電腦已經安裝並設定Git，以及已經有可使用的個人github帳號。  
+    + 如果你已經熟悉使用Git與github，可以直接跳過這一節。
+    + 如果讀者還不習慣使用Git，但想學習，請先參考[Git版本控制](Git.html)一節，確定使用Rstudio的電腦已經安裝並設定Git，以及已經有可使用的個人github帳號。  
     + 設定Rstudio背景參數。從Rstudio上方選單選擇Tools -> Global Options -> **Git/SVN**，到達如下圖的頁面。  
   ![MyGit](./img/MyGit.png)    
     + 在**Git/SVN**要整合已安裝的Git版本控制系統。從Git executable這欄，輸入或選擇安裝好的git.exe路徑名稱，例如`C:/Git/git.exe`。  
-    + github帳號開通後，必須在git bash中設定以下參數，**Git/SVN**頁面的最後一欄SSH RSA key才能設定正確檔案。  
+    + github帳號開通後，必須在git bash中設定以下參數，Git才能識別你的身份。
     ```
     git config --global user.name "your_github_name"
     git config --global user.email "yours@email.com"
-    ```
+    ```  
+    + **Git/SVN**頁面的最後一欄SSH RSA key，預設指向`C:/user/username/.ssh/id_rsa`。如果讀者的Git已完成設定RSA key，每次建立Git版本控制的R專案，Rstudio能自動識別已存在github的專案名稱。  
+    + 如果安裝本機Git已經設定 RSA key，可以忽略此步驟。如果尚未設定，Rstudio提供`generate RSA key`，可依照指示設定。有意學習的讀者，可參考[Git版本控制](Git.html)一節的解說。  
   
 * <a name='2B'>從Github Repo自建R專案</a>  
     + 筆者使用教學用github帳號`CSCsandbox`，示範如何創建本機與github同步的R專案。
@@ -86,6 +91,8 @@ output: html_document
     + Fork到自已github帳號的Repo不能同步本機端的更新內容，因為只有筆者對此Repo有更新的權限。使用者如果要更新內容，可建立新的專案，或者與筆者聯絡分享權限，或者使用pull request更新。  
   
 * <a name='2D'>建議</a>
-    + 
+    + 要將專案內容長期公開並維護的情況，這是最佳的方法。
+    + 其它使用者能使用自動化腳本同步程式碼與資料，達成可重製研究的最佳條件。
+    + 如果有多位使用者一起維護專案內容，應該都要有熟練的Git使用經驗，以及完善的專案開發計劃。
   
   

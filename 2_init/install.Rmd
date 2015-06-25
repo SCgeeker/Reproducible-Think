@@ -53,13 +53,13 @@ output: html_document
   ![MyPanes](./img/MyPanes.png)       
     + 第五個頁面**Packages**決定安裝額外R套件的下載伺服器，以及使用者自行開發R套件的預設參數。如果要安裝的套件已經由CRAN發佈，Rstudio會根據使用者在這裡的設定，從指定伺服器下載套件。使用者可根據自已的實際需要更改伺服器。  
   ![MyPackages](./img/MyPackages.png)           
-    + 第六個頁面**Sweave**設定Rmarkdown與LaTex文件的處理程式，建議先將下圖標處改為*knitr*，之後介紹Rmarkdown會說明Sweave設定的作用。  
+    + 第六個頁面**Sweave**設定Rmarkdown與LaTex文件的處理程式，建議先將下圖標示處改為*knitr*，之後介紹Rmarkdown會說明Sweave設定的作用。  
   ![MySweave](./img/MySweave.png)           
-    + 第七個頁面**Spelling**設定編輯一般文件的拼字檢查功能，如同WORD的拼字檢查。這個頁面提供拼字檢查要的字典來源，現在還未支援中文。  
+    + 第七個頁面**Spelling**設定編輯一般文件的拼字檢查功能，如同WORD的拼字檢查。這個頁面提供拼字檢查參考的字典來源，現在還未支援中文。  
   ![MySpelling](./img/MySpelling.png)           
-    + 第八個頁面**Git/SVN**設定與Rstudio整合的版本控制系統。Rstudio可整合Git與SVN兩種系統，筆者使用的是Git。此設定決定專案版本控制方法，在R專案一節有詳細介紹。  
+    + 第八個頁面**Git/SVN**設定與Rstudio整合的版本控制系統。Rstudio可整合Git與SVN兩種系統，筆者使用的是Git。設定方法在[R專案](Project.html)有詳細介紹。  
   ![MyGit](./img/MyGit.png)
-    + 第九個頁面**Publishing**設定使用者開發產品的發佈管道。Rstudio的另一個知名產品是shiny，如果使用者有Shiny App想發佈，Rstudio 0.99.447開始支援全程開發與發佈。未來有機會將介紹相關功能。  
+    + 第九個頁面**Publishing**設定使用者開發產品的發佈管道。Rstudio另一個知名產品是[shiny](http://shiny.rstudio.com/)，如果使用者想發佈自製的Shiny App，Rstudio 0.99.447開始支援全程開發與發佈。有興趣的讀者可自行尋找相關資料，未來這本書有需要改版，會再增加一節介紹。  
   ![MyPublish](./img/MyPublish.png)
   
 ###<a name='2'>如果你已經安裝R與Rstudio，請依照以下建議檢查更新與進行更新</a>  

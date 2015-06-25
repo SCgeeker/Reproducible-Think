@@ -48,14 +48,14 @@ output: html_document
     + 如果讀者還不習慣使用Git，但想學習，請先參考[Git版本控制](Git.html)一節，確定使用Rstudio的電腦已經安裝並設定Git，以及已經有可使用的個人github帳號。  
     + 設定Rstudio背景參數。從Rstudio上方選單選擇Tools -> Global Options -> **Git/SVN**，到達如下圖的頁面。  
   ![MyGit](./img/MyGit.png)    
-    + 在**Git/SVN**要整合已安裝的Git版本控制系統。從Git executable這欄，輸入或選擇安裝好的git.exe路徑名稱，例如`C:/Git/git.exe`。  
-    + github帳號開通後，必須在git bash中設定以下參數，Git才能識別你的身份。
+    + 在**Git/SVN**要整合已安裝的Git版本控制系統。從Git executable這欄，輸入或選擇安裝好的git.exe完整路徑名稱，例如`C:/Git/git.exe`。  
+    + github帳號開通後，必須透過git bash設定參數，Git才能識別你的身份。指令範令如下
     ```
-    git config --global user.name "your_github_name"
-    git config --global user.email "yours@email.com"
+    git config --global user.name "your_github_name"  ## your_github_name換成你的github註冊帳號
+    git config --global user.email "yours@email.com"  ## yours@email.com換成你的github註冊電子郵件
     ```  
     + **Git/SVN**頁面的最後一欄SSH RSA key，預設指向`C:/user/username/.ssh/id_rsa`。如果讀者的Git已完成設定RSA key，每次建立Git版本控制的R專案，Rstudio能自動識別已存在github的專案名稱。  
-    + 如果安裝本機Git已經設定 RSA key，可以忽略此步驟。如果尚未設定，Rstudio提供`generate RSA key`，可依照指示設定。有意學習的讀者，可參考[Git版本控制](Git.html)一節的解說。  
+    + 如果安裝本機Git已經設定 RSA key，可以忽略此步驟。如果尚未設定，可點設定頁面最下面`Create RSA key`，依照指示設定。願意學習完整設定的讀者，可參考[Git版本控制](Git.html#2B)一節的解說。  
   
 * <a name='2B'>從Github Repo自建R專案</a>  
     + 筆者使用教學用github帳號`CSCsandbox`，示範如何創建本機與github同步的R專案。

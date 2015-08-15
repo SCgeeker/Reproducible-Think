@@ -4,7 +4,7 @@ author: "陳紹慶"
 output: html_document
 ---
 
-#1.科學心理學的轉機
+#1.[科學心理學的轉機](./1_intro/introduction.html)
 
 ##1-1.從不道德的道德實驗開始
 

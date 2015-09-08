@@ -1,0 +1,10 @@
+Package: OSF2R
+Type: Package
+Title: Read files from OSF into R
+Version: 0.1
+Date: 2015-02-03
+Author: Sacha Epskamp
+Maintainer: Sacha Epskamp <mail@sachaepskamp.com>
+Description: This package can be used to (a) download files from the Open Science Framework (OSF) and (b) read files directly into I from the OSF.
+Imports: RCurl, gdata, xlsx, foreign, httr
+License: GPL-2

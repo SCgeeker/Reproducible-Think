@@ -1,8 +1,0 @@
-exportPattern("^[[:alpha:]]+")
-importFrom(RCurl, "getURL")
-importFrom(httr, "GET")
-importFrom(httr, "write_disk")
-importFrom(xlsx, "read.xlsx")
-importFrom(gdata, "read.xls")
-importFrom(foreign, "read.spss")
-importFrom(foreign, "read.dta")

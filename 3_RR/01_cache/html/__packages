@@ -1,0 +1,9 @@
+base
+devtools
+ggplot2
+RColorBrewer
+lattice
+gridExtra
+plyr
+dplyr
+httr

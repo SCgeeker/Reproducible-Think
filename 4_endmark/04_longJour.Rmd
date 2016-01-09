@@ -1,0 +1,59 @@
+---
+title: "展望篇：建立新時代的科學研究道標"
+author: "陳紹慶"
+output: html_document
+---
+在這本書的最後，我想談談寫這本書的最大願望。任何實證性科學對於透過實驗發現的事實，所呈現的知識可信度，主要透過直接再現（direct replication，或稱精準再現exact replication）與概念式再現（conceptual replication）。基本作法都是執行新的實驗，用新的實驗結果肯定或否證原始實驗的結果。直接再現是所有實驗條件的安排與原始實驗相同，或是儘可能逼近，檢驗能否得到相同的實驗結果。直接再現的目標就是驗證一項事實在已知的條件，能否再次被發現。本書一開頭舉例的Marc Hauser，被揭發後就是在進行爭議實驗的直接再現，但是尚未完成就自行宣佈辭職，調查委員會也停止調查行動，讓他的受爭議實驗究竟能不能再現至今仍是個謎。概念式再現是維持相同的假設，但是至少一種實驗條件換成與原始研究完全不同的操弄或控制方式。例如備受爭議的史丹福監獄實驗招募的自願參與者是24名中產階級年輕男性[(Smith & Haslam, 2012)][1] ，如果今天換成招募部份或全部女性，或其它社經地位的參與者，與原始實驗已有操弄條件的差異。如此進行再現的目標是要了解原始實驗發現的事實，能類推到其它條件的程度。
+
+如我一般在台灣接受心理學教育成長的學者，對於概念式再現比起直接再現更熟悉。許多台灣的心理學論文，以及知名的實驗心理學教科書(例如洪蘭與曾志朗合譯美國心理學者Underwood的[Experimentation in Psychology][2])，都用「異法同證」一詞稱呼概念式再現。概念式再現讓一些實證取向較低的應用心理學領域，能引用及修改基礎心理學的方法，研究應用性質的課題，對促進一個國家的學術發展有其貢獻。我還是學生時期，雖然沒有前輩老師明白地強調，依然感受到一種氛圍–「若非原創，至少要概念式再現才能產生有價值的研究」。在得知歐美認知與社會心理學的開創性研究出現造假或無法再現的消息後，我一直留意東西方學界的對應說法與行動，重點觀察重要學者如何解讀這些事件，拿出什麼樣的作為。
+
+兩年前我曾介紹一項跨國合作的直接再現研究– [Many Labs Project][3] [(Klein等人, 2014）][4]，以13件社會心理學的知名文獻為對象，36個獨立的實驗團隊直接再現這些文獻報告的實驗結果。即使實驗文獻都報告顯著的結果，有三件文獻的結果完全無法再現。這份再現研究的領導學者，如維吉尼亞大學心理學系的Brian Nosek教授，進一步策動規模更大的直接再現合作研究。Brian教授集資創立的開放科學中心(Center for Open Science)，以2008年刊登於Journal of Experimental Psychology: Learning, Memory, and Cognition、Journal of Personality and Social Psychology、以及Psychological Science三本期刊的一百件實驗為對象，招募世界各地有意參與的獨立實驗團隊，認領至少一件實驗進行直接再現。這三本期刊都是刊豋原創研究，且審查品質是學界公認。納入的研究其中一半屬於認知心理學，另一半屬於社會心理學，不過其中只有一件原始文獻報告未達顯著的結果。所有直接再現程序完成後，總計只有38%能再顯顯著結果，詳細結果刊登於2015年八月底的Science [(Open Science  Collaboration, 2015)][5] 。這份直接再現研究揭露的不只是原創心理學實驗研究再現程度普遍低落，更是指出多數原創性研究的結果，並不會帶來讓人耳目一新的知識。
+
+由於刊登於知名學術期刊，引起大眾媒體到學術場域的許多討論，到2016年初還有論述出現。兩岸三地對此報告的報導與評論散見於網路媒體如[關鍵評論網][6]、[泛科學][7]與個人部落格如[孫學軍][8]、[顏志龍][9]。國內甚至華文心理學界的學術期刊，還沒有見到完整的描述或評論，至少在此文完整的時間，Google Scholar還未搜尋到引用[Open Science  Collaboration (2015)][5]的中文論文。我從這項合作成果發現一個西方心理學界正在發動，跨越研究與教學的寧靜革命。革命的理論是要將心理學導向開放，並且能正向激勵發掘新知的科學知識體系。這個體系不會偏坦直接重現或概念性重現的價值，並能讓心理學者的研究所得直接回饋社會的互動模式，我稱之「開放科學知識體系」。
+
+這本小書傳達的正是建立「開放科學知識體系」所需要的基本功夫，希望願意為建立體系貢獻力量的任何人，都能熟練與精進，進而分享。開放科學知識體系有堅實的哲學基礎，介紹與討論相關思想是下一份著作要完成的任務。在此我要介紹一些正在成形的學術研究及溝通模式，啟發讀者朝此方向出發的意念。
+
+第一種模式是出版後同儕審查(post-publication peer review)。相對於出版前的同儕審查，出版後同儕審查是以已正式刊登的期刊論文為對象，專業人士主動或被動進行內容評論。單純以操作方式來說，唸過研究所的朋友都有被指導教授指定閱讀並討論某篇論文的經驗，就是一種廣義的出版後同儕審查。如果要做到和出版前同儕審查一樣的程序，並且發揮一定的學術功能，應有一位等同學術期刊編輯的角色，負責揀選論文，物色及分派審查者，以及彙整評論，甚至可回饋出版論文的期刊，指出不應刊登的論文，最為大眾所知的案例是2014年發生於日本的STAP幹細胞研究造假案，就是由提供匿名機制的出版後同儕審查平台[PubPeer][10]揭發。
+
+與出版前審查最大不同之處，是審查者的意見文字能公諸於大眾，不像出版前審查機制只有論文作者與期刊編輯才看得到評審者的意見，因此許多學者或機構相信這是能讓科學研究過程透明的方式，願意建置管理審查機制，或擔任審查者。目前已問世的運作模式有兩種，一種是期刊本身提供出版後評論機制，讓註冊讀者對已出版於該期刊的論文，提供具名或匿名的評論，例如現在最知名的開放引用期刊[PLOS ONE][11]。另一種是由期刊與作者之外的第三方，建立的評論平台，例如前述的[PubPeer][10]。第三方建立的平台則有運作機制的差異，如有的平台會由管理者主動邀請審查者，或者如PubPeer是收集所有已有DOI(Digital Object Identifier, 數位物件識別號)的論文，讓註冊使用者主動成為論文審查者。即使兩種運作模式不同，第三方平台都要保持審查者的匿名性，讓審查者暢所欲言。這種方式也帶來網路時代匿名性的壞處，例如有心人士假造身份，透過平台指控某篇論文的內容。物理學者Julian Stirling在自已的部落格描述[自已的親身遭遇][12]，指出第三方平台要如何確認審查者的真實身份，是要繼續改進的重點。
+
+第二種模式是同儕互評系統(peer evaluation)。目前的出版前同儕審查機制，被人詬病之處頗多，就以劍橋大學數學系教授William T. Gowers於2012年在個人部落格發起[向Elservier宣戰的發言][13]，所引起的迴響可見一斑。心理學原創研究的低再現率，其實也反映目前的出版前同儕審查機制，不能達到預期的功用。追根究柢，出版前同儕審查與刊登論文相互連結，是導致現況的主要原因。Norsek教授與他的同事曾在Psychological Inquiry發表論文 ([Nosek, Spies, & Motyl, 2012][14]; [Nosek & Bar-Anan, 2012][15])，陳述讓同儕審查與論文出版脫勾運作的模式。我稱呼這種模式為「從計畫到發表的一貫化評鑑模式」–從研究者提出計畫開始，到論文正式投稿前，每個重要步驟產生的格式化報告或成品，都有接受同儕評鑑的機會，研究者可從每一個步驟得到的評鑑意見或評分，改進自已的研究。投稿後的審查，能從整體的評鑑，而不僅是論文本身，評估這份研究的貢獻。不僅能縮短評審的時程，也能讓編輯不必再煩惱是否要對品質不佳的論文退稿，與出版與否完全脫稿。然而這種模式要建立必須從經費補助機構到論文出版機構，進行產業體質的調整才能達成。不過現在已經看到一些局部的改進正在進行，像是學術工作者的社群網站[academia.edu][16]，提供註冊的研究者向同領域的專業人士公開自已正在準備的論文草稿，徵求改進意見。如果讀者有興趣，可以由此先得知幾篇google都搜尋不到的論文稿件。
+
+第三種模式正是本書第三章介紹的[預先登錄研究(Preregistered Research)](./3_RR/00.html)，前面已提過的[many labs project][4]與[刊登於Science的再現研究][5]都是屬於此類。根據[開放科學中心的彙整][17]，目前已經有不同領域的期刊開始全面或部分採用這種模式。預先登錄式研究是同儕審查與論文出版未能完全脫勾，卻有可能達成開放科學的理想。預先登錄式研究從提出計畫書到完成發表，要經過兩個階段的審查。第一階段是提出研究計畫到執行完畢的期間，期刊可自行或委託相關機構進行第一階段同儕審查，通過的計畫能獲得原則性接受(In-principle acceptance)。第二階段是執行完畢後，對論文的匿名審查程序。經過第一階段的審查，在第二階段能就假設與結果是否一致做為是否可以接收的判斷依據，而不是根據有沒有得到顯著結果 做為接收的依據。如果能成功，就能降低現在的出版前審查模式所帶來的出版偏誤(publication bias)。第一階段設下的標準，能引導審查者注意研究者的邏輯合理怍與結果的可再現程度，而非實驗結果是否顯著。
+
+寫在這本書中提到的版本控制觀念與方法，以及可程式化分析程序，都是預先登錄式研究要求的起碼條件，但是在台灣的經費補助機構，都還沒有以此做為分配經費的評估條件。即使我這個世代的研究人員還不需要調適自已，去適應開放科學知識體系，但是下一世代必將在養成階段，就要以此觀念學習與更新知識。我期許能不斷精進這本書的內容，見證明日的心理學成為開放科學知識體系的一塊基石。
+
+
+[1]: http://www.amazon.com/Social-Psychology-Revisiting-Classic-Studies/dp/0857027565 "Smith, J. R. & Haslam, S. A. (Eds.) (2012). Social Psychology: Revisiting the Classic Studies. Sage."
+
+[2]: http://psycnet.apa.org/psycinfo/1975-22214-000 "Underwood, B. J., & Shaughnessy, J. J. (1975). Experimentation in psychology (Vol. vii). Oxford, England: John Wiley & Sons."
+
+[3]: http://pansci.asia/archives/64866
+
+[4]: <http://econtent.hogrefe.com/doi/abs/10.1027/1864-9335/a000178> "Klein, R. A., Ratliff, K. A., Vianello, M., Adams Jr, R. B., Bahník, Š., Bernstein, M. J., … Nosek, B. A.  (2014). Investigating Variation in Replicability. Social Psychology, 45, 142–152. doi: 10.1027/1864-9335/a000178"
+
+[5]: <http://www.sciencemag.org/content/349/6251/aac4716> "Open Science Collaboration(2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716. doi： 10.1126/science.aac4716"
+
+[6]: <http://www.thenewslens.com/post/211550/> "270科學家合作，僅能重複36%心理學實驗結果"
+
+[7]: <http://pansci.asia/archives/84652> "科學與謬誤──尋找科學研究的意義"
+
+[8]: <http://blog.sciencenet.cn/blog-41174-916523.html> "学术论文，让我如何相信你！"
+
+[9]: <http://dragon1943.blogspot.tw/2015/09/blog-post.html> "我們間接殺了人"
+
+[10]: <https://pubpeer.com/> "PubPeer"
+
+[11]: <http://www.plosone.org/> "PLOS ONE"
+
+[12]: <http://physicsfocus.org/dark-side-post-publication-peer-review/> "http://physicsfocus.org/dark-side-post-publication-peer-review/"
+
+[13]: <https://gowers.wordpress.com/2012/01/21/elsevier-my-part-in-its-downfall/> "Elsevier — my part in its downfall"
+
+[14]: <http://www.tandfonline.com/doi/abs/10.1080/1047840X.2012.692215#.VpC9yeh94Rk> "Nosek, B. A., & Bar-Anan, Y. (2012). Scientific Utopia: I. Opening Scientific Communication. Psychological Inquiry, 23, 217–243. doi: 10.1080/1047840X.2012.692215"
+
+[15]: <http://pps.sagepub.com/content/7/6/615.full.pdf+html> "Nosek, B. A., Spies, J. R., & Motyl, M. (2012). Scientific Utopia: II. Restructuring Incentives and Practices to Promote Truth Over Publishability. Perspectives on Psychological Science, 7, 615–631. doi: 10.1177/1745691612459058"
+
+[16]: <https://www.academia.edu/> "academia.edu"
+
+[17]: <https://cos.io/prereg/#five> "the list of eligible journals"

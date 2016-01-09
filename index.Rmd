@@ -31,3 +31,6 @@ output: html_document
 ##3-3.[廣義可重製：開放的科學研究協作模式](./3_RR/02.html)
 
 #4.[展望篇：建立新時代的科學研究道標](./4_endmark/04_longJour.html)
+</br>
+</br>
+V1.0.0: 2016/1/9 4:20PM(UTC+8)
